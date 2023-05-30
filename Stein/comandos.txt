@@ -1,0 +1,3 @@
+expo start --localhost --android no usb
+npm start
+npx expo start
